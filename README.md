@@ -7,10 +7,10 @@ this repository does not distribute any copyrighted minecraft files.
 all scripts in this project download assets directly from official mojang servers.  
 this archive is intended only for use with the official minecraft launcher and for preservation purposes.
 
-not affiliated with mojang or microsoft. (scroll down for instructions for install)
+not affiliated with mojang or microsoft.
 
 
-# how to install versions:
+## how to install versions:
 1. open any of the folders and download the batch script
 2. run the script, this will download files from the official mojang servers
 3. check your downloads folder
